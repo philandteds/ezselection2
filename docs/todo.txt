@@ -1,0 +1,26 @@
+Todo
+
+1. Upgrade scripts and test code
+
+-- Upgrade class content
+-- Upgrade object content
+-- Change data_type_string
+-- Update other fields? Serialized_string?
+
+2. Correct object initialisation. Currently the datatable shows a text box but it should be a checkbox. Requires javascript change.
+3. Javascript updates for class view
+
+-- Allow quick addition field to remove final server round-trip
+-- Datatype 'help', popups?
+-- Change checkbox when both boxes are ticked to show radio/checkbox functionality.
+-- Generate identifier on the fly.
+
+3. Finish tests!
+4. Datatable CSS with the class edit.
+5. Proper string translation
+6. Javascript translation support
+7. Consider debug switch for yui debug
+8. Documentation
+9. Discuss SQL query with team
+10. Submit for review
+

@@ -1,0 +1,39 @@
+eZ Selection 2 upgrade
+======================
+
+:Author: Paul Forsyth
+:Revision: $Revision$
+:Date: $Date$
+
+Overview
+========
+
+Discuss eZSelection upgrade to version 2.
+
+Features
+========
+
+- Value of selection is stored instead id.
+- Class options are:
+
+  - Choose whether to allow multiselection
+  - Show options as checkboxes 
+  - Easy creation of options
+  - Easy creation of default values for object
+  - Easy management of option names, identifiers and order
+  - Information collection
+
+Upgrading from eZSelection
+==========================
+
+Run script **
+
+Upgrading from EnhancedSelection1
+=================================
+
+Run script **
+
+Upgrading from EnhancedSelection2
+=================================
+
+Run script **

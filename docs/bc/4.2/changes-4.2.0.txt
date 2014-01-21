@@ -1,0 +1,10 @@
+Changes to BC and behaviour in version 4.2.0
+============================================
+
+Deprecated features
+-------------------
+
+- eZSelection
+
+  This datatype has been deprecated and replaced by eZSelection2. Please use provided scripts to upgrade from eZSelection and version of EnhancedSelection.
+ 
