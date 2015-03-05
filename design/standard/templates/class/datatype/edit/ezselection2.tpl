@@ -1,9 +1,10 @@
 <!-- Added local yui files to prevent requirement of a net connection for the YUI Combo loader: --> 
+
 <script type="text/javascript" src={"javascript/yui/yahoo-dom-event/yahoo-dom-event.js"|ezdesign}></script>
 <script type="text/javascript" src={"javascript/yui/dragdrop/dragdrop-min.js"|ezdesign}></script>
 <script type="text/javascript" src={"javascript/yui/element/element-min.js"|ezdesign}></script>
 <script type="text/javascript" src={"javascript/yui/datasource/datasource-min.js"|ezdesign}></script>
-<script type="text/javascript" src={"javascript/yui/datatable/datatable-min.js"|ezdesign}></script>
+<script type="text/javascript" src={"javascript/yui/datatable/datatable.js"|ezdesign}></script>
 <script type="text/javascript" src={"javascript/yui/button/button-min.js"|ezdesign}></script>
 <script type="text/javascript" src={"javascript/ezselection2.js"|ezdesign}></script>
 
